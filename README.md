@@ -1,5 +1,5 @@
 # Driver-Drowsiness-Detection-System
-<h1>DRIVER DROWSINESS DETECTION SYSTEM</h1>
+
 <img src="https://www.ijraset.com/images/text_version_uploads/imag%201_10489.png" alt="drowsiness pic" width=500 height= 400><br><br>
 <U>INTRODUCTION:</U>
 <p>Our project is  for detecting drowsiness in drivers is developed by using a camera that point directly towards the drivers face and capture for the real time video. Once the video is captured, monitoring the face region and eyes in order to detect drowsy. The system able to monitoring eyes and determines whether the eyes are in an open position or closed state. In such a case when drowsiness is detected, a warning signal is issued to alert the driver. It can determine a time interval of eye closure as the proportion of a time interval that the eye is in the closed position. If the drivers eyes are closed cumulatively more than a standard value, the system draws the conclusion that the driver is falling asleep, and then it will activate an alarm sound to alert the driver.</P>
